@@ -1,6 +1,6 @@
 # urlpinginator
 
-<p align="center" ><img style="background:white;border-radius:50%" width="120px" src="./images/dr.png" /></p>
+<p align="center" ><img style="border-radius:50%" width="120px" src="./images/dr2.jpeg" /></p>
 <p align="center"><a href="https://urlpinginator.herokuapp.com/">urlpinginator</a></p>
 
 <p align="center">MERN stack web application to track other website</p>
